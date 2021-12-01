@@ -1,4 +1,2 @@
 # initial-config
-Used for reinitializing an environment
-
-Final test
+Used for initializing different environments
